@@ -23,13 +23,7 @@ mycode(str,x); // using this we are using recursion
 str.push(ans);
 
 
-
-
-
-
 }
-
-
 
 
 int main(){
@@ -55,10 +49,6 @@ str.pop();
 
 
 }
-
-
-
-
 
 
 }
